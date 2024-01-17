@@ -4,6 +4,7 @@ const nextConfig = {
         domains: [
 
             "s3-alpha-sig.figma.com",
+             "plus.unsplash.com",
             "images.unsplash.com"
         ],
     },
