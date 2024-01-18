@@ -1,0 +1,7 @@
+.destinationCard:hover .destinationText {
+  transform: translate(0, -50%);
+}
+
+.destinationText {
+  transition: all 0.9s;
+}
